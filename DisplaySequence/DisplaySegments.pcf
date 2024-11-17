@@ -1,0 +1,18 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Tue Aug 27 03:57:05 2024
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "DISPLAY<1>" LOCATE = SITE "P115" LEVEL 1;
+COMP "DISPLAY<2>" LOCATE = SITE "P112" LEVEL 1;
+COMP "DISPLAY<3>" LOCATE = SITE "P108" LEVEL 1;
+COMP "DISPLAY<4>" LOCATE = SITE "P106" LEVEL 1;
+COMP "DISPLAY<5>" LOCATE = SITE "P100" LEVEL 1;
+COMP "DISPLAY<6>" LOCATE = SITE "P98" LEVEL 1;
+COMP "CODE<0>" LOCATE = SITE "P116" LEVEL 1;
+COMP "CODE<1>" LOCATE = SITE "P113" LEVEL 1;
+COMP "CODE<2>" LOCATE = SITE "P109" LEVEL 1;
+COMP "CODE<3>" LOCATE = SITE "P107" LEVEL 1;
+COMP "DISPLAY<0>" LOCATE = SITE "P119" LEVEL 1;
+SCHEMATIC END;
+

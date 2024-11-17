@@ -1,0 +1,8 @@
+V3 4
+FL /home/ise/FPGA/Code/DisplaySequence/DisplaySegments.vhd 2024/09/08.00:17:24 P.20131013
+EN work/DisplaySegments 1724731010 \
+      FL /home/ise/FPGA/Code/DisplaySequence/DisplaySegments.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/DisplaySegments/Behavioral 1724731011 \
+      FL /home/ise/FPGA/Code/DisplaySequence/DisplaySegments.vhd \
+      EN work/DisplaySegments 1724731010

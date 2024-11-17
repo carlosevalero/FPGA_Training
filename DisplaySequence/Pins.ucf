@@ -1,0 +1,23 @@
+#The following constraints were newly added
+#NET "ROW<0>" LOC = P75;
+#NET "COL<0>" LOC = P64;
+#NET "ROW<1>" LOC = P76;
+#NET "COL<1>" LOC = P65;
+#NET "ROW<2>" LOC = P69;
+#NET "COL<2>" LOC = P62;
+#NET "ROW<3>" LOC = P74;
+#NET "COL<3>" LOC = P63;
+#NET "RST" LOC = "P101"
+NET "DISPLAY<0>" LOC = P119;
+NET "DISPLAY<1>" LOC = P115;
+NET "DISPLAY<2>" LOC = P112;
+NET "DISPLAY<3>" LOC = P108;
+NET "DISPLAY<4>" LOC = P106;
+NET "DISPLAY<5>" LOC = P100;
+NET "DISPLAY<6>" LOC = P98;
+
+NET "CODE<0>" LOC = P116;
+NET "CODE<1>" LOC = P113;
+NET "CODE<2>"  LOC = p109;
+NET "CODE<3>"  LOC = p107;
+
